@@ -8,7 +8,11 @@
 
 同时，贴心的up主闲下来会录一些视频，给大家做讲解。
 
+手撕代码QQ群：805423079
+
 [哔哩哔哩配套视频讲解](https://space.bilibili.com/74513865/video)。
+
+![Leetcode名企之路](https://upload-images.jianshu.io/upload_images/1887271-d57796bfc9c9aa3c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # HTTP
 * [【HTTP】分布式session的管理](https://mp.weixin.qq.com/s/eX8pf0dSNjGeuZFyHfEePg)
@@ -152,9 +156,4 @@
 * [【Leetcode】2. Add Two Numbers](https://mp.weixin.qq.com/s/mS1rZXt87ZftwYOE5rKkwA)
 * [【Leetcode】1. Two Sum](https://mp.weixin.qq.com/s/BVRbZvg6ghJ-rRClP3O6mQ)
 * [学习资料推荐](https://mp.weixin.qq.com/s/KrKPkpfDJfHKNFo5PWLoJw)
-
-
-
-![Leetcode名企之路](https://upload-images.jianshu.io/upload_images/1887271-d57796bfc9c9aa3c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-**手撕代码QQ群：805423079**
 
