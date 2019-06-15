@@ -3,7 +3,7 @@
 * 安装git
   * [git-book](https://git-scm.com/book/zh/v1)
   * [git 协作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)
-* [安装VS code 并安装Leetcode 插件](https://zhuanlan.zhihu.com/p/56226189) 可选，也可以用编译器刷；
+* [安装VS code 并安装Leetcode 插件](https://zhuanlan.zhihu.com/p/56226189) 可选，也可以用IDE刷；
 * 安装[typora](https://www.typora.io/)。一个markdown编辑器，所有题解均用markdown编写；
 
 # 1.规约
