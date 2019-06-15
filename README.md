@@ -1,4 +1,8 @@
-# 环境准备
+# 如何参与该项目？
+
+[加入我们](join_us.md)
+
+# 刷题准备
 
 [安装VS code 并安装Leetcode 插件](https://zhuanlan.zhihu.com/p/56226189)
 
