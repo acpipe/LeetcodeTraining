@@ -1,24 +1,14 @@
-# 如何参与该项目？
 
-[加入我们](join_us.md)
 
 # 刷题准备
 
 [安装VS code 并安装Leetcode 插件](https://zhuanlan.zhihu.com/p/56226189)
 
-千万不要用IDE刷题！
+千万不要用IDE刷题！千万不要用IDE刷题！千万不要用IDE刷题！重要的事情说三遍。
 
-千万不要用IDE刷题！
+因为面试的时候，由于紧张，用IDE刷题，会发挥不好。
 
-千万不要用IDE刷题！
-
-重要的事情说三遍。因为面试的时候，由于紧张，用编译器刷题，会发挥不好。
-
-同时，贴心的up主闲下来会录一些视频，给大家做讲解。
-
-手撕代码QQ群：805423079
-
-[哔哩哔哩配套视频讲解](https://space.bilibili.com/74513865/video)。
+有问题可以加手撕代码QQ群：805423079
 
 ![Leetcode名企之路](https://upload-images.jianshu.io/upload_images/1887271-d57796bfc9c9aa3c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
